@@ -1,6 +1,6 @@
 [
     {
-        "ConfigFile": "cfg/server.cfg",
+        "ConfigFile": "./server.cfg",
         "ConfigType": "json",
         "AutoMap": false
     }
