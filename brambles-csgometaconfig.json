@@ -1,6 +1,6 @@
 [
     {
-        "ConfigFile": "./740/csgo/cfg/server.cfg",
+        "ConfigFile": "./csgo/cfg/server.cfg",
         "ConfigType": "json",
         "AutoMap": true
     }
