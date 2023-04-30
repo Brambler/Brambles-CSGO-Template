@@ -7,13 +7,6 @@
         "Ref": "ServerPort"
     },
     {
-        "Protocol": "TCP",
-        "Port": "2226",
-        "Name": "SFTP Port Number",
-        "Description": "Used for SFTP Traffic",
-        "Ref": "SFTPPortNumber"
-    },
-    {
         "Protocol": "UDP",
         "Port": "27020",
         "Name": "SourceTV Port Number",
