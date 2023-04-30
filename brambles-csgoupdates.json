@@ -3,7 +3,7 @@
         "UpdateStageName": "Downloading Latest CSGO Game Files",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "",
+        "UpdateSourceData": "730",
         "UpdateSourceArgs": "730",
         "UpdateSourceVersion": "",
         "UpdateSourceTarget": "",
@@ -11,7 +11,7 @@
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
         "UpdateSourceConditionSetting": null,
-        "UpdateSourceConditionValue": "true",
+        "UpdateSourceConditionValue": "false",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
