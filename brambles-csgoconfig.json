@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Configurations",
+        "Description": "This is used to configure your server name.",
+        "Keywords": "server,name",
+        "FieldName": "--name",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "--name",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "BramblesCSGO",
+        "Placeholder": "BramblesCSGO",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
