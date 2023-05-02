@@ -1,7 +1,1 @@
-[
-    {
-        "ConfigFile": "./csgo/cfg/server.cfg",
-        "ConfigType": "json",
-        "AutoMap": true
-    }
-]
+[]
