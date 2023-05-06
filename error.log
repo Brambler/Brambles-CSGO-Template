@@ -1,0 +1,27 @@
+LD_LIBRARY_PATH=/home/amp/.ampdata/instances/Brambles-CSGO01/brambles-csgo/740/bin:./:/opt/cubecoders/amp/
+Failed to open libtier0.so (libtier0.so: cannot open shared object file: No such file or directory)
+
+LD_LIBRARY_PATH=/home/amp/.ampdata/instances/Brambles-CSGO01/brambles-csgo/740/bin:./
+Failed to open libtier0.so (libtier0.so: cannot open shared object file: No such file or directory)
+
+
+
+"LD_LIBRARY_PATH":"./linux64:%LD_LIBRARY_PATH%/740/bin","SteamAppId":"740"
+
+LD_LIBRARY_PATH=/home/amp/.ampdata/instances/Brambles-CSGO01/brambles-csgo/740/bin:./linux64:./:/opt/cubecoders/amp//740/bin
+Failed to open libtier0.so (libtier0.so: cannot open shared object file: No such file or directory)
+
+"LD_LIBRARY_PATH": "./740/bin", "SteamAppId": "740"
+
+LD_LIBRARY_PATH=/home/amp/.ampdata/instances/Brambles-CSGO01/brambles-csgo/740/bin:./740/bin
+Failed to open libtier0.so (libtier0.so: cannot open shared object file: No such file or directory)
+
+"LD_LIBRARY_PATH": "bin/libtier0.so", "SteamAppId": "740"
+
+LD_LIBRARY_PATH=/home/amp/.ampdata/instances/Brambles-CSGO01/brambles-csgo/740/bin:bin/libtier0.so
+Failed to open libtier0.so (libtier0.so: cannot open shared object file: No such file or directory)
+
+
+
+LD_LIBRARY_PATH=/AMP/brambles-csgo/740/bin:./linux64:%LD_LIBRARY_PATH%
+Failed to open libtier0.so (libtier0.so: cannot open shared object file: No such file or directory)
