@@ -2,15 +2,8 @@
     {
         "Protocol": "UDP",
         "Port": "27015",
-        "Name": "Server Port",
+        "Name": "Main Game Port",
         "Description": "Used for Server Traffic",
-        "Ref": "ServerPort"
-    },
-    {
-        "Protocol": "UDP",
-        "Port": "27020",
-        "Name": "SourceTV Port Number",
-        "Description": "Used for SourceTV Traffic",
-        "Ref": "SourceTVPortNumber"
+        "Ref": "MainGamePort"
     }
 ]
