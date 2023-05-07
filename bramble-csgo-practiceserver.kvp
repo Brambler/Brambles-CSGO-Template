@@ -7,6 +7,7 @@
 <Module>k__BackingField.features=GSMyAdmin.ModuleLoader+FeatureManager
 <Module>k__BackingField.app=srcdsModule.SRCDSApp
 <Module>k__BackingField.messages=GSMyAdmin.PluginMessagePusher
+App.DisplayName=Brambles-CSGO
 SRCDS.SteamCMDPath=./srcds/
 SRCDS.ExecPath=.
 SRCDS.Map=cs_office
